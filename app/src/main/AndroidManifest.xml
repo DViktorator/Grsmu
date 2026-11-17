@@ -3,8 +3,7 @@
     <application
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Grsmu"
-        android:enableOnBackInvokedCallback="true">
+        android:theme="@style/Theme.Grsmu">
         <activity
             android:name=".MainActivity"
             android:exported="true">
